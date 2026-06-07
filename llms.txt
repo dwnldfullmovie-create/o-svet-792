@@ -1,0 +1,12 @@
+# O svet 792
+> Moderní kuchyňské studio se sídlem v městě Praha, Praha.
+
+## Obsah webu
+- [Hlavní stránka](/index.html): Přehled publikací.
+- [O nás](/about.html): Kdo jsme a co děláme.
+- [Kontakt](/contact.html): Formulář a adresa.
+## Publikace
+- [Jak začít s automatizací ve vaší firmě](/jak-zacit-s-automatizaci-ve-vasi-firme.html)
+- [Jak vybrat nejlepší kontaktní gril pro domácnost](/jak-vybrat-nejlepsi-kontaktni-gril-pro-domacnost.html)
+- [Tipy na rychlou večeři: Teplé pohoštění z grilu](/tipy-na-rychlou-veceri-teple-pohosteni-z-grilu.html)
+- [Jak správně doplňovat vitaminy během roku](/jak-spravne-doplnovat-vitaminy-behem-roku.html)
